@@ -24,3 +24,5 @@ _код_
 ! [Пейзажи природы] ( "image.png" https://7oom.ru/wp-content/uploads/foto-priroda-23.jpg)
 
 изменения
+
+изменения в ветке 1
